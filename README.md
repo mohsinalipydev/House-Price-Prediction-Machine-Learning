@@ -142,7 +142,7 @@ Installation Guide
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/House-Price-Prediction.git
+git clone https://github.com/mohsinalipydev/House-Price-Prediction.git
 ```
 
 Move into project directory:
