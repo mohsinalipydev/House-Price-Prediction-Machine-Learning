@@ -137,7 +137,7 @@ The Flask application loads the trained model and provides a web interface where
 
 ---
 
-## 🚀 Installation Guide
+Installation Guide
 
 ### Clone Repository
 
@@ -201,7 +201,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 📊 Machine Learning Workflow
+Machine Learning Workflow
 
 ```text
 Dataset
@@ -225,7 +225,7 @@ User Prediction
 
 ---
 
-## 📈 Future Improvements
+Future Improvements
 
 - Improve prediction accuracy using advanced algorithms.
 - Implement feature engineering techniques.
@@ -237,24 +237,7 @@ User Prediction
 
 ---
 
-## 📷 Screenshots
-
-You can add screenshots of:
-
-- Home Page
-- Prediction Form
-- Prediction Result Page
-
-Example:
-
-```markdown
-![Home Page](screenshots/homepage.png)
-![Prediction Result](screenshots/result.png)
-```
-
----
-
-## 🔮 Future Scope
+Future Scope
 
 This project can be extended into a complete Real Estate Analytics Platform with:
 
@@ -266,17 +249,16 @@ This project can be extended into a complete Real Estate Analytics Platform with
 
 ---
 
-## 👨‍💻 Author
+Author
 
-### Mohsin Ali
+Mohsin Ali
 
 Machine Learning Enthusiast | Python Developer | Web Application Developer
 
-GitHub: https://github.com/yourusername
 
 ---
 
-## 📄 License
+License
 
 This project is created for educational and learning purposes.
 
