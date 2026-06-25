@@ -1,10 +1,10 @@
-House Price Prediction System
+# House Price Prediction System
 
 A Machine Learning-based web application that predicts house prices based on various property features. The system is trained on historical housing data and deployed through a Flask web interface, allowing users to enter property details and receive estimated house prices instantly.
 
 ---
 
-Project Description
+## Project Description
 
 House price prediction is one of the most common Machine Learning regression problems. This project uses a trained Machine Learning model to estimate the price of a house based on property characteristics such as area, number of bedrooms, bathrooms, location-related factors, and other housing attributes.
 
@@ -12,7 +12,7 @@ The trained model is integrated with a Flask web application, providing a simple
 
 ---
 
-Objectives
+## Objectives
 
 The main objectives of this project are:
 
@@ -24,7 +24,7 @@ The main objectives of this project are:
 
 ---
 
-Features
+## Features
 
 ### Machine Learning Features
 - Data preprocessing and cleaning
@@ -42,7 +42,7 @@ Features
 
 ---
 
-Technologies Used
+## Technologies Used
 
 ### Programming Language
 - Python
@@ -67,7 +67,7 @@ Technologies Used
 
 ---
 
-Project Structure
+## Project Structure
 
 ```text
 House-Price-Prediction/
@@ -90,7 +90,7 @@ House-Price-Prediction/
 
 ---
 
-Working Process
+## Working Process
 
 ### Step 1: Data Collection
 The dataset containing historical housing information is stored in:
@@ -137,7 +137,7 @@ The Flask application loads the trained model and provides a web interface where
 
 ---
 
-Installation Guide
+## Installation Guide
 
 ### Clone Repository
 
@@ -201,7 +201,7 @@ http://127.0.0.1:5000
 
 ---
 
-Machine Learning Workflow
+## Machine Learning Workflow
 
 ```text
 Dataset
@@ -225,7 +225,7 @@ User Prediction
 
 ---
 
-Future Improvements
+## Future Improvements
 
 - Improve prediction accuracy using advanced algorithms.
 - Implement feature engineering techniques.
@@ -237,7 +237,7 @@ Future Improvements
 
 ---
 
-Future Scope
+## Future Scope
 
 This project can be extended into a complete Real Estate Analytics Platform with:
 
@@ -249,16 +249,16 @@ This project can be extended into a complete Real Estate Analytics Platform with
 
 ---
 
-Author
+## Author
 
 Mohsin Ali
 
-Machine Learning Enthusiast | Python Developer | Web Application Developer
+Machine Learning Engineer | Python Developer | Data Scientist
 
 
 ---
 
-License
+## License
 
 This project is created for educational and learning purposes.
 
